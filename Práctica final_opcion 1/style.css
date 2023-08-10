@@ -1,0 +1,14 @@
+rect.barras {
+    fill: rgb(202, 126, 82);
+}
+
+.barras:hover {
+  fill: rgb(139, 19, 0);
+}
+
+p#titulo {
+    font-size: large;
+    font-weight: 800;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(208, 90, 90);
+}
